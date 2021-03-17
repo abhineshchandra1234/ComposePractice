@@ -9,5 +9,5 @@
 
 [Jetpack Compose](https://youtu.be/b_F2wzV45ZQ "Named link title")
 
-## Image
+## App Preview
 ![picture alt](https://github.com/abhineshchandra1234/ComposePractice/blob/master/ComposePractice.jpg "Title is optional") 
